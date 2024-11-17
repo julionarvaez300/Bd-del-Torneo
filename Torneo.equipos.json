@@ -1,50 +1,52 @@
-[{
-  "_id": 100,
-  "nombre": "Real Madrid",
-  "entrenador_id": 1100
-},
-{
-  "_id": 101,
-  "nombre": "FC Barcelona",
-  "entrenador_id": 11001
-},
-{
-  "_id": 102,
-  "nombre": "Manchester United",
-  "entrenador_id": 11002
-},
-{
-  "_id": 103,
-  "nombre": "Bayern Múnich",
-  "entrenador_id": 11003
-},
-{
-  "_id": 104,
-  "nombre": "Liverpool FC",
-  "entrenador_id": 11004
-},
-{
-  "_id": 105,
-  "nombre": "Juventus",
-  "entrenador_id": 11005
-},
-{
-  "_id": 106,
-  "nombre": "PSG ",
-  "entrenador_id": 11006
-},
-{
-  "_id": 107,
-  "nombre": "Chelsea",
-  "entrenador_id": 11007
-},
-{
-  "_id": 108,
-  "nombre": "Manchester City",
-  "entrenador_id": 11008
-},
-{
-  "_id": 109,
-  "nombre": "Arsenal",
-  "entrenador_id": 11009
-}]
+[
+  {
+    "_id": 100,
+    "nombre": "Real Madrid",
+    "entrenador_id": 11000
+  },
+  {
+    "_id": 101,
+    "nombre": "FC Barcelona",
+    "entrenador_id": 11001
+  },
+  {
+    "_id": 102,
+    "nombre": "Manchester United",
+    "entrenador_id": 11002
+  },
+  {
+    "_id": 103,
+    "nombre": "Bayern Múnich",
+    "entrenador_id": 11003
+  },
+  {
+    "_id": 104,
+    "nombre": "Liverpool FC",
+    "entrenador_id": 11004
+  },
+  {
+    "_id": 105,
+    "nombre": "Juventus",
+    "entrenador_id": 11005
+  },
+  {
+    "_id": 106,
+    "nombre": "PSG ",
+    "entrenador_id": 11006
+  },
+  {
+    "_id": 107,
+    "nombre": "Chelsea",
+    "entrenador_id": 11007
+  },
+  {
+    "_id": 108,
+    "nombre": "Manchester City",
+    "entrenador_id": 11008
+  },
+  {
+    "_id": 109,
+    "nombre": "Arsenal",
+    "entrenador_id": 11009
+  }
+]
