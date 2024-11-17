@@ -1,70 +1,72 @@
-[{
-  "_id": 11000,
-  "nombre": "Mario Sánchez",
-  "edad": 45,
-  "experiencia": "15 años",
-  "equipo_id": 100
-},
-{
-  "_id": 11001,
-  "nombre": "Luis Fernández",
-  "edad": 50,
-  "experiencia": "10 años",
-  "equipo_id": 101
-},
-{
-  "_id": 11002,
-  "nombre": "Carlos Ramírez",
-  "edad": 38,
-  "experiencia": "8 años",
-  "equipo_id": 102
-},
-{
-  "_id": 11003,
-  "nombre": "Enrique Morales",
-  "edad": 42,
-  "experiencia": "12 años",
-  "equipo_id": 103
-},
-{
-  "_id": 11004,
-  "nombre": "Jorge Castillo",
-  "edad": 47,
-  "experiencia": "20 años",
-  "equipo_id": 104
-},
-{
-  "_id": 11005,
-  "nombre": "Juan Castillo",
-  "edad": 37,
-  "experiencia": "7 años",
-  "equipo_id": 105
-},
-{
-  "_id": 11006,
-  "nombre": "Pedro Silva",
-  "edad": 48,
-  "experiencia": "16 años",
-  "equipo_id": 106
-},
-{
-  "_id": 11007,
-  "nombre": "Ricardo Torres",
-  "edad": 36,
-  "experiencia": "5 años",
-  "equipo_id": 107
-},
-{
-  "_id": 11008,
-  "nombre": "Manuel Ortega",
-  "edad": 43,
-  "experiencia": "12 años",
-  "equipo_id": 108
-},
-{
-  "_id": 11009,
-  "nombre": "Miguel Herrera",
-  "edad": 40,
-  "experiencia": "10 años",
-  "equipo_id": 109
-}]
+[
+  {
+    "_id": 11000,
+    "nombre": "Mario Sánchez",
+    "edad": 45,
+    "experiencia": "15 años",
+    "equipo_id": 100
+  },
+  {
+    "_id": 11001,
+    "nombre": "Luis Fernández",
+    "edad": 50,
+    "experiencia": "10 años",
+    "equipo_id": 101
+  },
+  {
+    "_id": 11002,
+    "nombre": "Carlos Ramírez",
+    "edad": 38,
+    "experiencia": "8 años",
+    "equipo_id": 102
+  },
+  {
+    "_id": 11003,
+    "nombre": "Enrique Morales",
+    "edad": 42,
+    "experiencia": "12 años",
+    "equipo_id": 103
+  },
+  {
+    "_id": 11004,
+    "nombre": "Jorge Castillo",
+    "edad": 47,
+    "experiencia": "20 años",
+    "equipo_id": 104
+  },
+  {
+    "_id": 11005,
+    "nombre": "Juan Castillo",
+    "edad": 37,
+    "experiencia": "7 años",
+    "equipo_id": 105
+  },
+  {
+    "_id": 11006,
+    "nombre": "Pedro Silva",
+    "edad": 48,
+    "experiencia": "16 años",
+    "equipo_id": 106
+  },
+  {
+    "_id": 11007,
+    "nombre": "Ricardo Torres",
+    "edad": 36,
+    "experiencia": "5 años",
+    "equipo_id": 107
+  },
+  {
+    "_id": 11008,
+    "nombre": "Manuel Ortega",
+    "edad": 43,
+    "experiencia": "12 años",
+    "equipo_id": 108
+  },
+  {
+    "_id": 11009,
+    "nombre": "Miguel Herrera",
+    "edad": 40,
+    "experiencia": "10 años",
+    "equipo_id": 109
+  }
+]
