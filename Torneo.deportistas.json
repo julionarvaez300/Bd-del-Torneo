@@ -1,0 +1,108 @@
+[{
+  "_id": "001",
+  "nombre": "Julio Narvaez",
+  "edad": 23,
+  "genero": "masculino",
+  "equipo_id": "100",
+  "posicion": "delantero",
+  "nacionalidad": "Argentina"
+},
+{
+  "_id": "002",
+  "nombre": "Carlos Gómez",
+  "edad": 26,
+  "genero": "masculino",
+  "equipo_id": "101",
+  "posicion": "portero",
+  "nacionalidad": "Colombia"
+},
+{
+  "_id": "003",
+  "nombre": "Roberto Fernández",
+  "edad": 28,
+  "genero": "masculino",
+  "equipo_id": "100",
+  "posicion": "defensor",
+  "nacionalidad": "Chile"
+},
+{
+  "_id": "004",
+  "nombre": "Andrés González",
+  "edad": 24,
+  "genero": "masculino",
+  "equipo_id": "102",
+  "posicion": "centrocampista",
+  "nacionalidad": "Perú"
+},
+{
+  "_id": "005",
+  "nombre": "Mateo Silva",
+  "edad": 22,
+  "genero": "masculino",
+  "equipo_id": "103",
+  "posicion": "delantero",
+  "nacionalidad": "Uruguay"
+},
+{
+  "_id": "006",
+  "nombre": "Daniel Castro",
+  "edad": 29,
+  "genero": "masculino",
+  "equipo_id": "104",
+  "posicion": "portero",
+  "nacionalidad": "Brasil"
+},
+{
+  "_id": "007",
+  "nombre": "Fernando Ruiz",
+  "edad": 27,
+  "genero": "masculino",
+  "equipo_id": "105",
+  "posicion": "defensor",
+  "nacionalidad": "Paraguay"
+},
+{
+  "_id": "008",
+  "nombre": "Sebastián Mendoza",
+  "edad": 25,
+  "genero": "masculino",
+  "equipo_id": "106",
+  "posicion": "centrocampista",
+  "nacionalidad": "Ecuador"
+},
+{
+  "_id": "009",
+  "nombre": "Lucas Ramírez",
+  "edad": 30,
+  "genero": "masculino",
+  "equipo_id": "107",
+  "posicion": "delantero",
+  "nacionalidad": "Venezuela"
+},
+{
+  "_id": "010",
+  "nombre": "Diego Torres",
+  "edad": 26,
+  "genero": "masculino",
+  "equipo_id": "108",
+  "posicion": "portero",
+  "nacionalidad": "Bolivia"
+},
+{
+  "_id": "011",
+  "nombre": "José Martínez",
+  "edad": 21,
+  "genero": "masculino",
+  "equipo_id": "109",
+  "posicion": "defensor",
+  "nacionalidad": "México"
+},
+{
+  "_id": "012",
+  "nombre": "Tomás Herrera",
+  "edad": 24,
+  "genero": "masculino",
+  "equipo_id": "100",
+  "posicion": "centrocampista",
+  "nacionalidad": "Costa Rica"
+}]

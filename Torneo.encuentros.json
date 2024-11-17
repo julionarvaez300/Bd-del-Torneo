@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "673a5278549f6a132c8f2fb1"
+  },
+  "encuentro_id": 9013,
+  "goles_local": 2,
+  "goles_visitante": 0,
+  "ganador": "Real Madrid",
+  "empate": false
+},
+{
+  "_id": {
+    "$oid": "673a5278549f6a132c8f2fb2"
+  },
+  "encuentro_id": 9014,
+  "goles_local": 1,
+  "goles_visitante": 3,
+  "ganador": "FC Barcelona",
+  "empate": false
+},
+{
+  "_id": {
+    "$oid": "673a5278549f6a132c8f2fb3"
+  },
+  "encuentro_id": 9015,
+  "goles_local": 0,
+  "goles_visitante": 0,
+  "ganador": null,
+  "empate": true
+},
+{
+  "_id": {
+    "$oid": "673a5278549f6a132c8f2fb4"
+  },
+  "encuentro_id": 9016,
+  "goles_local": 4,
+  "goles_visitante": 2,
+  "ganador": "Manchester City",
+  "empate": false
+},
+{
+  "_id": {
+    "$oid": "673a5278549f6a132c8f2fb5"
+  },
+  "encuentro_id": 9017,
+  "goles_local": 3,
+  "goles_visitante": 3,
+  "ganador": null,
+  "empate": true
+}]

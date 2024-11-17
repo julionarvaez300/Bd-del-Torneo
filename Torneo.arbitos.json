@@ -1,0 +1,42 @@
+[{
+  "_id": 2202,
+  "nombre": "Carlos Fernández",
+  "edad": 41,
+  "nacionalidad": "Argentina",
+  "categoria": "Nacional"
+},
+{
+  "_id": 2203,
+  "nombre": "Miguel Ramírez",
+  "edad": 37,
+  "nacionalidad": "Chile",
+  "categoria": "Regional"
+},
+{
+  "_id": 2204,
+  "nombre": "Javier Martínez",
+  "edad": 33,
+  "nacionalidad": "Uruguay",
+  "categoria": "Internacional"
+},
+{
+  "_id": 2205,
+  "nombre": "Luis Díaz",
+  "edad": 29,
+  "nacionalidad": "Colombia",
+  "categoria": "Local"
+},
+{
+  "_id": 2200,
+  "nombre": "Ana Torres",
+  "edad": 34,
+  "nacionalidad": "México",
+  "categoria": "FIFA"
+},
+{
+  "_id": 2201,
+  "nombre": "José López",
+  "edad": 39,
+  "nacionalidad": "Brasil",
+  "categoria": "FIFA"
+}]

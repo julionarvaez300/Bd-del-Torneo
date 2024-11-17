@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "673a547a549f6a132c8f2fbd"
+  },
+  "posicion": 1,
+  "equipo": "Manchester City",
+  "puntos": 3,
+  "partidos_jugados": 1,
+  "victorias": 1,
+  "empates": 0,
+  "derrotas": 0,
+  "goles_favor": 4,
+  "goles_contra": 2,
+  "diferencia_goles": 2
+},
+{
+  "_id": {
+    "$oid": "673a547a549f6a132c8f2fbe"
+  },
+  "posicion": 2,
+  "equipo": "FC Barcelona",
+  "puntos": 3,
+  "partidos_jugados": 1,
+  "victorias": 1,
+  "empates": 0,
+  "derrotas": 0,
+  "goles_favor": 3,
+  "goles_contra": 1,
+  "diferencia_goles": 2
+},
+{
+  "_id": {
+    "$oid": "673a547a549f6a132c8f2fbf"
+  },
+  "posicion": 3,
+  "equipo": "Real Madrid",
+  "puntos": 3,
+  "partidos_jugados": 1,
+  "victorias": 1,
+  "empates": 0,
+  "derrotas": 0,
+  "goles_favor": 2,
+  "goles_contra": 0,
+  "diferencia_goles": 2
+},
+{
+  "_id": {
+    "$oid": "673a547a549f6a132c8f2fc0"
+  },
+  "posicion": 4,
+  "equipo": "Equipo X",
+  "puntos": 1,
+  "partidos_jugados": 1,
+  "victorias": 0,
+  "empates": 1,
+  "derrotas": 0,
+  "goles_favor": 3,
+  "goles_contra": 3,
+  "diferencia_goles": 0
+},
+{
+  "_id": {
+    "$oid": "673a547a549f6a132c8f2fc1"
+  },
+  "posicion": 5,
+  "equipo": "Equipo Y",
+  "puntos": 1,
+  "partidos_jugados": 1,
+  "victorias": 0,
+  "empates": 1,
+  "derrotas": 0,
+  "goles_favor": 0,
+  "goles_contra": 0,
+  "diferencia_goles": 0
+}]
